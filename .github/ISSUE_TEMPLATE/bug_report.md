@@ -8,7 +8,7 @@ assignees: ''
 
 **Webadmin Build Number** *(required — found under "About BridgeLink" in the left navigation menu)*
 
-<!-- Enter your build number here, e.g. 4.6.0-build.1234 -->
+<!-- Enter your build number here, e.g. 26.3.0-build.abc123 -->
 
 **Describe the Bug**
 A clear and concise description of what the bug is. Is this consistently reproducible?
@@ -31,7 +31,7 @@ If applicable, attach screenshots or screen recordings to help illustrate the pr
 **Environment**
 - OS: [e.g. Windows 11, macOS 14, Ubuntu 22.04]
 - Browser & Version: [e.g. Chrome 125, Firefox 126, Edge 125]
-- BridgeLink Server Version: [e.g. 4.6.0]
+- BridgeLink Server Version: [e.g. 26.3.0]
 
 **Workaround(s)**
 Are there any known workarounds for this issue?
