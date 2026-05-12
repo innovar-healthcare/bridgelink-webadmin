@@ -8,7 +8,7 @@ assignees: ''
 
 **Webadmin Build Number** *(required — found under "About BridgeLink" in the left navigation menu)*
 
-<!-- Enter your build number here, e.g. 4.6.0-build.1234 -->
+<!-- Enter your build number here, e.g. 26.3.0-build.a1234 -->
 
 **Describe the Security Issue**
 A clear and concise description of the vulnerability or security concern.
@@ -19,7 +19,7 @@ Is this issue in a third-party dependency, the Webadmin application code, or a c
 **Environment** *(if applicable)*
 - OS: [e.g. Windows 11, Ubuntu 22.04]
 - Browser & Version: [e.g. Chrome 125]
-- BridgeLink Server Version: [e.g. 4.6.0]
+- BridgeLink Server Version: [e.g. 26.3.0]
 
 **Suggested Remediation**
 If known, describe how you would recommend addressing this issue (e.g. upgrade library X to version Y, change default setting Z).
