@@ -8,7 +8,7 @@ assignees: ''
 
 **Webadmin Build Number** *(required — found under "About BridgeLink" in the left navigation menu)*
 
-<!-- Enter your build number here, e.g. 4.6.0-build.1234 -->
+<!-- Enter your build number here, e.g. 26.3.0-build.a1234 -->
 
 **Is your request related to a problem?**
 A clear and concise description of the problem this feature would address.
