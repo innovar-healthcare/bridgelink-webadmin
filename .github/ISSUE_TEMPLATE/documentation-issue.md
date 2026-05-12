@@ -8,7 +8,7 @@ assignees: ''
 
 **Webadmin Build Number** *(required — found under "About BridgeLink" in the left navigation menu)*
 
-<!-- Enter your build number here, e.g. 4.6.0-build.1234 -->
+<!-- Enter your build number here, e.g. 26.3.0-build.a1234 -->
 
 **Description**
 Describe the documentation problem. For example: a help text is outdated, a menu item is undocumented, or instructions lead to an incorrect result.
